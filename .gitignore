@@ -1,0 +1,16 @@
+# Node
+node_modules/
+.env
+npm-debug.log
+
+# Postman / Newman reports
+*.html
+newman/
+*.postman_environment.json
+
+# VSCode
+.vscode/
+
+# System
+.DS_Store
+Thumbs.db
