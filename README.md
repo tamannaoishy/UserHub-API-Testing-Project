@@ -11,7 +11,7 @@ This project also includes a **Newman CLI** setup for automated testing and a be
 UserHub - NEWMAN report/
 ├── collection/
 │ ├── UserHub API Testing.postman_collection.json
-│ └── UserHub Environment.postman_environment.json
+│ └── UserHub Env. postman_environment.json
 ├── report.js
 ├── report.png
 ├── report.html
@@ -51,7 +51,11 @@ npm install -i newman-reporter-htmlextra
 ```
 node report.js
 ```
-🧾 ![Sample HTML Report Output](./report.png)
+
+- 🧾[Newman HTML Report](./report.png)
+- ![Newman HTML Report](./report.png)
+
+- 🧾[Documentation](https://documenter.getpostman.com/view/46784361/2sB34kEyhi)
 
 📌 Requirements
 - Node.js ≥ v14
