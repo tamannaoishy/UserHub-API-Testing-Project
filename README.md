@@ -53,3 +53,16 @@ node report.js
 ```
 🧾 ![Sample HTML Report Output](./report.png)
 
+📌 Requirements
+- Node.js ≥ v14
+- Postman (Desktop or Web)
+
+- Newman CLI:
+```
+npm install -g newman
+```
+- API Used: ReqRes API
+
+- Created by: Jakia Tamanna Oishy
+
+This project is licensed under the MIT License.
