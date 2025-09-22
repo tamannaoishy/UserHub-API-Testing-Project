@@ -39,7 +39,7 @@ UserHub - NEWMAN report/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/UserHub-API-Testing-Project.git
+git clone https://github.com/tamannaoishy/UserHub-API-Testing-Project.git
 cd UserHub-API-Testing-Project
 ```
 2. Install Dependencies
@@ -69,4 +69,4 @@ npm install -g newman
 
 - Created by: Jakia Tamanna Oishy
 
-This project is licensed under the MIT License.
+
